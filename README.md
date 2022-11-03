@@ -32,11 +32,11 @@ This project uses the React framework to build and deploy a fully functional das
 
 ### Ecommerce
 
-<br/><br/>
+
 Desktop View            |  Mobile View
 :-------------------------:|:-------------------------:
 ![](Project%20Images/picture1.JPG) |  ![](Project%20Images/picture9.PNG)
-<br/><br/>
+
 
 The dashboard includes many important metrics such as earnings, yearly salaries, sales overview, and recent transactions. This gives the user an organized overview of their financial metrics. Almost all of them are interactive, displaying descriptive information in pop-up windows. Other feeatures include a responsive navigation bar that can be collapsed.  
 
