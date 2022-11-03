@@ -68,8 +68,8 @@ The customers table displays all customers and is fully editable. This means you
 <br/><br/>
 The calendar application includes a fully functional calendar. The user can create as many events needed which can be dragged and dropped. The user has the ability to make many small edits to each event such as the title, location, start/end time, and many more. The view of the calendar is also adjustable as you can set the view to each day, week, and month. The calendar even has an agenda view for users to choose from.
 <br/><br/>
-
 ![](Project%20Images/picture6.JPG)
+<br/><br/>
 ![](Project%20Images/picture7.PNG)
 
 ### Kanban
