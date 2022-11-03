@@ -1,4 +1,9 @@
- # E-Commerce Application   
+ # E-Commerce Application
+ 
+
+### Application Link
+
+https://synfusion-dashboard.netlify.app/ecommerce
 
 ### Table of Contents
 
@@ -10,7 +15,7 @@
 
 ## Description
 
-This project uses the React framework to build and deploy a fully functional dashboard with many components. The dashboard includes many important metrics such as earnings, yearly salaries, sales overview,  and recent transactions. The dashboard has three pages where you can view customer orders, current employees, and customers. Many crucial applications have been implemented into the dashboard. These applications include a fully functional calendar, a Kanban scheduling system, a text editor, and a color-picker for users to theme their application. The dashboard also includes several interactive charts to display information.
+This project uses the React framework to build and deploy a fully functional dashboard that is mobile reponsive with many components. The dashboard includes many important metrics such as earnings, yearly salaries, sales overview, and recent transactions. 
 
 ## Technologies
 
@@ -23,24 +28,29 @@ This project uses the React framework to build and deploy a fully functional das
 
 ---
 
-## Description of Modules
+## Description of Components
 
-### Program Counter
+### Ecommerce
 
-The program counter holds the address of the instructions and passes down each instruction individually to the instruction memory. The instructions are then fetched from the instruction memory using the address. After passing it down, it increases the address by 1, basically moving on to the next instruction address. There are some cases where we have either a branch or jump instruction. In this case, the program counter takes the branch or jump instruction address from the decoder and the ALU sends a signal, allowing both the branch and jump instructions to execute. Overall the address increases by an increment of one unless there is a branch or jump instruction, the ALU signals either instruction is executed.
+The dashboard includes many important metrics such as earnings, yearly salaries, sales overview, and recent transactions. This gives the user an organized overview of their financial metrics. Almost all of them are interactive, displaying descriptive information in pop-up windows. Other feeatures include a responsive navigation bar that can be collapsed.  
 
-### CPU_top
+### Orders
 
-The combination of all the modules, connecting all the individual modules together to function together as a unit.
+The orders table displays all of the orders that have been made using a pagination system. Each order has a picture of the item, item name, customer name, total amount, status, and order number.
 
-### Instruction Memory
+### Employees
 
-The instruction memory uses the address received from the PC and then fetches the instruction. The instruction is then sent to the decoder to be decoded. If the instructions are received, the load instruction command gets the instruction indexed by the address from PC.
- 
+The employees table displays all current employees. It includes a completely functional search bar and filter functionality. Each employee has their name, role, country, start date, their manager, and employee ID. 
 
-### Decoder
+### Customers
 
+The customers table displays all customers and is fully editable. This means you are able to select multiple rows and delete them or edit each field individually. Each customer has their name, project name, status, time of employment, budget, location, and customer ID displayed.
 
+### Calendar
 
-### Functionality of The New Instruction AND
+The calendar application includes a fully functional calendar. The user can create as many events needed which can be dragged and dropped. The user has the ability to make many small edits to each event such as the title, location, start/end time, and many more. The view of the calendar is also adjustable as you can set the view to each day, week, and month. The calendar even has an agenda view for users to choose from.
+
+### Kanban
+
+Kanban is similar to the more commonly known application Trello where users can set up tasks that are divided into three lists. The scheduling system is fully interactive where the user can move each task to whichever list they chose to.
 
