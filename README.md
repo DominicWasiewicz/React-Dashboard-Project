@@ -14,7 +14,7 @@
 
 ## Project Description
 
-This project uses the React framework to build and deploy a fully functional dashboard that is mobile reponsive with many components. The dashboard includes many important metrics such as earnings, yearly salaries, sales overview, and recent transactions. 
+This project uses the React framework to build and deploy a fully functional dashboard that is mobile reponsive with many components. The dashboard includes many important metrics for users to keep track of their ecommerce business such as earnings, yearly salaries, sales overview, and recent transactions. 
 
 ## Technologies
 
