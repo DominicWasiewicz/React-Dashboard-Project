@@ -1,5 +1,6 @@
  # E-Commerce Application
  
+ ![](Project Images/picture1.JPG)
 
 ### Application Link
 
