@@ -8,8 +8,7 @@ https://synfusion-dashboard.netlify.app/ecommerce
 ### Table of Contents
 
 - [Description](#description)
-- [Description of Modules](#description-of-modules)
-- [New Instruction “AND”](#new-instruction-and)
+- [Description of Components](#description-of-components)
 
 ---
 
