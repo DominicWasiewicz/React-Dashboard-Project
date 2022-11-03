@@ -3,16 +3,16 @@
 
 ### Application Link
 
-https://synfusion-dashboard.netlify.app/ecommerce
+[https://synfusion-dashboard.netlify.app](https://synfusion-dashboard.netlify.app/)
 
 ### Table of Contents
 
-- [Description](#description)
+- [Project Description](#project-description)
 - [Description of Components](#description-of-components)
 
 ---
 
-## Description
+## Project Description
 
 This project uses the React framework to build and deploy a fully functional dashboard that is mobile reponsive with many components. The dashboard includes many important metrics such as earnings, yearly salaries, sales overview, and recent transactions. 
 
